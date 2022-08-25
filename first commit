@@ -1,0 +1,4 @@
+print "hello world"
+git add "first commit"
+git status
+git commit -m "commit sucessful"
